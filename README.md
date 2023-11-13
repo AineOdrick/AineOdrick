@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AineOdrick
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning mobile app development
+- 👀 I’m a Software Developer.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me; +256-759-665-733 or +256-786-645-551
 
